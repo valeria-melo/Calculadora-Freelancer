@@ -2,7 +2,7 @@
 
 
 
-<img src="https://img.shields.io/static/v1?label=JavaScript&message=linguage&color=Orange&style=for-the-badge&logo=JavaScript"/></p>
+<img src="https://img.shields.io/static/v1?label=JavaScript&message=linguage&color=blue&style=for-the-badge&logo=JavaScript"/></p>
 
 <h1 align="justify"> Calculadora Freelancer</h1>
 <h2 align="justify"> Desafio {Reprograma} </h2>
